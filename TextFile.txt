@@ -1,1 +1,7 @@
-This is text file
+This is text file.
+
+
+
+NEW 0LINE AFTER UPDATION(1).
+NEW LINE AFTER UPDATION(1).
+NEW LINE AFTER UPDATION(1).
